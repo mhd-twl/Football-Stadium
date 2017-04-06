@@ -1,0 +1,51 @@
+C:\Users\Ammar\Desktop\TAOSample\bin\Debug\TAOSample.exe
+C:\Users\Ammar\Desktop\TAOSample\bin\Debug\TAOSample.pdb
+C:\Users\Ammar\Desktop\TAOSample\obj\x86\Debug\TAOSample.csprojResolveAssemblyReference.cache
+C:\Users\Ammar\Desktop\TAOSample\obj\x86\Debug\TAOSample.Form1.resources
+C:\Users\Ammar\Desktop\TAOSample\obj\x86\Debug\TAOSample.Properties.Resources.resources
+C:\Users\Ammar\Desktop\TAOSample\obj\x86\Debug\TAOSample.csproj.GenerateResource.Cache
+C:\Users\Ammar\Desktop\TAOSample\obj\x86\Debug\TAOSample.exe
+C:\Users\Ammar\Desktop\TAOSample\obj\x86\Debug\TAOSample.pdb
+C:\Users\Ammar\Desktop\TAOSample\bin\Debug\freeglut.dll
+C:\Users\Ammar\Desktop\TAOSample Y\obj\x86\Debug\TAOSample.exe
+C:\Users\Ammar\Desktop\TAOSample Y\obj\x86\Debug\TAOSample.pdb
+C:\Users\Ammar\Desktop\TAOSample Y\bin\Debug\freeglut.dll
+C:\Users\Ammar\Desktop\TAOSample Y\bin\Debug\TAOSample.exe
+C:\Users\Ammar\Desktop\TAOSample Y\bin\Debug\TAOSample.pdb
+C:\Users\Ammar\Desktop\TAOSample Y\obj\x86\Debug\TAOSample.csprojResolveAssemblyReference.cache
+C:\Users\Ammar\Desktop\TAOSample Y\obj\x86\Debug\TAOSample.Form1.resources
+C:\Users\Ammar\Desktop\TAOSample Y\obj\x86\Debug\TAOSample.Properties.Resources.resources
+C:\Users\Ammar\Desktop\TAOSample Y\obj\x86\Debug\TAOSample.csproj.GenerateResource.Cache
+D:\My Files\Lectures\CG\Lab\CG-lab13\TAOSample Y - Copy-For-ME\obj\x86\Debug\TAOSample.exe
+D:\My Files\Lectures\CG\Lab\CG-lab13\TAOSample Y - Copy-For-ME\obj\x86\Debug\TAOSample.pdb
+D:\My Files\Lectures\CG\Lab\CG-lab13\TAOSample Y - Copy-For-ME\obj\x86\Debug\TAOSample.csprojResolveAssemblyReference.cache
+D:\My Files\Lectures\CG\Lab\CG-lab13\TAOSample Y - Copy-For-ME\obj\x86\Debug\TAOSample.Form1.resources
+D:\My Files\Lectures\CG\Lab\CG-lab13\TAOSample Y - Copy-For-ME\obj\x86\Debug\TAOSample.Properties.Resources.resources
+D:\My Files\Lectures\CG\Lab\CG-lab13\TAOSample Y - Copy-For-ME\obj\x86\Debug\TAOSample.csproj.GenerateResource.Cache
+D:\My Files\Lectures\CG\Lab\CG-lab13\Studiem Football\obj\x86\Debug\TAOSample.exe
+D:\My Files\Lectures\CG\Lab\CG-lab13\Studiem Football\obj\x86\Debug\TAOSample.pdb
+D:\My Files\Lectures\CG\Lab\CG-lab13\Studiem Football\bin\Debug\freeglut.dll
+D:\My Files\Lectures\CG\Lab\CG-lab13\Studiem Football\bin\Debug\TAOSample.exe
+D:\My Files\Lectures\CG\Lab\CG-lab13\Studiem Football\bin\Debug\TAOSample.pdb
+D:\My Files\Lectures\CG\Lab\CG-lab13\Studiem Football\obj\x86\Debug\TAOSample.csprojResolveAssemblyReference.cache
+D:\My Files\Lectures\CG\Lab\CG-lab13\Studiem Football\obj\x86\Debug\TAOSample.Form1.resources
+D:\My Files\Lectures\CG\Lab\CG-lab13\Studiem Football\obj\x86\Debug\TAOSample.Properties.Resources.resources
+D:\My Files\Lectures\CG\Lab\CG-lab13\Studiem Football\obj\x86\Debug\TAOSample.csproj.GenerateResource.Cache
+D:\My Files\Lectures\CG\Lab\w.CG-lab13\Studiem Football\obj\x86\Debug\TAOSample.exe
+D:\My Files\Lectures\CG\Lab\w.CG-lab13\Studiem Football\obj\x86\Debug\TAOSample.pdb
+D:\My Files\Lectures\CG\Lab\w.CG-lab13\Studiem Football\bin\Debug\freeglut.dll
+D:\My Files\Lectures\CG\Lab\w.CG-lab13\Studiem Football\bin\Debug\TAOSample.exe
+D:\My Files\Lectures\CG\Lab\w.CG-lab13\Studiem Football\bin\Debug\TAOSample.pdb
+D:\My Files\Lectures\CG\Lab\w.CG-lab13\Studiem Football\obj\x86\Debug\TAOSample.csprojResolveAssemblyReference.cache
+D:\My Files\Lectures\CG\Lab\w.CG-lab13\Studiem Football\obj\x86\Debug\TAOSample.Form1.resources
+D:\My Files\Lectures\CG\Lab\w.CG-lab13\Studiem Football\obj\x86\Debug\TAOSample.Properties.Resources.resources
+D:\My Files\Lectures\CG\Lab\w.CG-lab13\Studiem Football\obj\x86\Debug\TAOSample.csproj.GenerateResource.Cache
+I:\Private\MyFiles\lectures\Old Subjects\CG\Lab\w.CG-lab13\Studiem Football\obj\x86\Debug\TAOSample.exe
+I:\Private\MyFiles\lectures\Old Subjects\CG\Lab\w.CG-lab13\Studiem Football\obj\x86\Debug\TAOSample.pdb
+I:\Private\MyFiles\lectures\Old Subjects\CG\Lab\w.CG-lab13\Studiem Football\bin\Debug\freeglut.dll
+I:\Private\MyFiles\lectures\Old Subjects\CG\Lab\w.CG-lab13\Studiem Football\bin\Debug\TAOSample.exe
+I:\Private\MyFiles\lectures\Old Subjects\CG\Lab\w.CG-lab13\Studiem Football\bin\Debug\TAOSample.pdb
+I:\Private\MyFiles\lectures\Old Subjects\CG\Lab\w.CG-lab13\Studiem Football\obj\x86\Debug\TAOSample.csprojResolveAssemblyReference.cache
+I:\Private\MyFiles\lectures\Old Subjects\CG\Lab\w.CG-lab13\Studiem Football\obj\x86\Debug\TAOSample.Form1.resources
+I:\Private\MyFiles\lectures\Old Subjects\CG\Lab\w.CG-lab13\Studiem Football\obj\x86\Debug\TAOSample.Properties.Resources.resources
+I:\Private\MyFiles\lectures\Old Subjects\CG\Lab\w.CG-lab13\Studiem Football\obj\x86\Debug\TAOSample.csproj.GenerateResource.Cache

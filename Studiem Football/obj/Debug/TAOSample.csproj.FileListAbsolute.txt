@@ -1,0 +1,9 @@
+C:\Users\Ammar\Desktop\TAOSample\bin\Debug\TAOSample.exe
+C:\Users\Ammar\Desktop\TAOSample\bin\Debug\TAOSample.pdb
+C:\Users\Ammar\Desktop\TAOSample\obj\Debug\TAOSample.Form1.resources
+C:\Users\Ammar\Desktop\TAOSample\obj\Debug\TAOSample.Properties.Resources.resources
+C:\Users\Ammar\Desktop\TAOSample\obj\Debug\TAOSample.csproj.GenerateResource.Cache
+C:\Users\Ammar\Desktop\TAOSample\obj\Debug\TAOSample.exe
+C:\Users\Ammar\Desktop\TAOSample\obj\Debug\TAOSample.pdb
+C:\Users\Ammar\Desktop\TAOSample\bin\Debug\freeglut.dll
+C:\Users\Ammar\Desktop\TAOSample\obj\Debug\TAOSample.csprojResolveAssemblyReference.cache
